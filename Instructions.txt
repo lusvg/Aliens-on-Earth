@@ -1,0 +1,9 @@
+Instructions to be followed  to run application "Aliens on Earth"
+
+1. Change the credentials in app.config file.
+2. Create table  in sql server through "Alien_Earth_Sql.txt" file.
+3. Execute the application.  
+
+For any query feel free to ask me on +91-94148-58607 or alternatively you can drop a mail on lusvg@yahoo.com.
+
+Enjoy!!!!!
