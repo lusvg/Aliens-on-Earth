@@ -1,0 +1,7 @@
+G:\Solution_AlienonEarth\Solution_AlienonEarth\bin\Debug\Solution_AlienonEarth.exe.config
+G:\Solution_AlienonEarth\Solution_AlienonEarth\bin\Debug\Solution_AlienonEarth.exe
+G:\Solution_AlienonEarth\Solution_AlienonEarth\bin\Debug\Solution_AlienonEarth.pdb
+G:\Solution_AlienonEarth\Solution_AlienonEarth\bin\Debug\itextsharp.dll
+G:\Solution_AlienonEarth\Solution_AlienonEarth\obj\x86\Debug\Solution_AlienonEarth.csprojResolveAssemblyReference.cache
+G:\Solution_AlienonEarth\Solution_AlienonEarth\obj\x86\Debug\Solution_AlienonEarth.exe
+G:\Solution_AlienonEarth\Solution_AlienonEarth\obj\x86\Debug\Solution_AlienonEarth.pdb
